@@ -16,7 +16,7 @@ A RESTful API to predict machine downtime using manufacturing data.
 
 ### **4. Postman API Setup**
 
-#### Step 1: Install Postman
+#### Step 1: Install Postman.
 Download and install [Postman](https://www.postman.com/downloads/).
 
 #### Step 2: Create Requests
